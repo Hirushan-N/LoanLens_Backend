@@ -1,0 +1,6 @@
+@LoanLens.API_HostAddress = http://localhost:5249
+
+GET {{LoanLens.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
