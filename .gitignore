@@ -396,3 +396,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+.idea/.idea.LoanLens_Backend/.idea/aws.xml
+.idea/.idea.LoanLens_Backend/.idea/indexLayout.xml
+.idea/.idea.LoanLens_Backend/.idea/vcs.xml
